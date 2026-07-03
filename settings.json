@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "player",
   "bot-account": {
-    "username": "creeper",
+    "username": "hot",
     "password": "",
     "type": "offline"
   },
